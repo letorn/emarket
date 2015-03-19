@@ -1,0 +1,11 @@
+{
+  "button": {
+    "add": "添加",
+    "save": "保存",
+    "remove": "删除",
+    "update": "更新",
+    "refresh": "刷新",
+    "import": "导入",
+    "export": "导出"
+  }
+}

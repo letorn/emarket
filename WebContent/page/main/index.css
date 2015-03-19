@@ -1,0 +1,113 @@
+body {
+  margin: 0px auto 0px auto;
+  padding: 0px; 
+}
+
+#toolbar {
+  width: 100%;
+  min-width: 1240px;
+  height: 18px;
+  padding: 7px 0px 0px 0px;
+  font-size: 12px;
+  background-color: #dddddd;
+  -moz-box-shadow: 0px 5px 5px #eeeeee inset;
+  -webkit-box-shadow: 0px 5px 5px #eeeeee inset;
+  box-shadow: 0px 5px 5px #eeeeee inset;
+}
+
+#toolbar .group1 {
+  float: left;
+  padding: 0px 0px 0px 45px;
+}
+
+#toolbar .group2 {
+  float: right;
+  padding: 0px 45px 0px 0px;
+}
+
+#toolbar .group1 .login {
+  color: #ff7500;
+}
+
+#toolbar .group1 .register {
+  color: #333333;
+}
+
+#toolbar .group2 .cart {
+}
+
+#tadv {
+  width: 1240px;
+  height: 80px;
+  margin: 3px auto 3px auto;
+  background-color: #ff7500;
+}
+
+#tadv .button {
+  float: right;
+  width: 16px;
+  heigth: 16px;
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  background-color: transparent;
+}
+
+#tadv .button:hover {
+  cursor: pointer;
+}
+
+#searchbar {
+  width: 1240px;
+  height: 50px;
+  margin: 3px auto 3px auto;
+}
+
+#searchbar .adv1 {
+  width: 320px;
+  height: 50px;
+  background-color: #ff7500;
+}
+
+#searchbar .adv2 {
+  width: 320px;
+  height: 50px;
+  background-color: #ff7500;
+}
+
+#searchbar .group {
+  width: 600px;
+  height: 50px;
+}
+
+#searchbar .group .input {
+  width: 500px;
+  height: 23px;
+  margin: 0px;
+  padding: 0px;
+  border: 2px solid #ff7500;
+  outline: none;
+  font-size: 20px;
+}
+
+#searchbar .group .button {
+  width: 80px;
+  height: 27px;
+  margin: 0px 0px 0px -5px;
+  padding: 0px;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #ff7500;
+}
+
+#searchbar .group .button:hover {
+  cursor: pointer;
+}
+
+#searchbar .group .tip {
+  width: 583px;
+  margin: 6px 0px 0px 0px;
+  text-align: left;
+  font-size: 12px;
+}
